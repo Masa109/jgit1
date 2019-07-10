@@ -12,6 +12,6 @@ class Diceroll{
 		System.out.println("Hello, "+name+"!");
 		System.out.println("Die 1: "+a);
 		System.out.println("Die 2: "+b);
-		System.out.println("Total value: "+total);
+		System.out.println("Total value: "+(a+b));
 	}
 }
