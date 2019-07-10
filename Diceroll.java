@@ -1,5 +1,5 @@
 import java.util.*;
-class Diceroll2{
+class Diceroll{
 	public static void main(String[] args){
 		Random rand=new Random();
 		Scanner sc=new Scanner(System.in);
